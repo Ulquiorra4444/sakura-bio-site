@@ -1,6 +1,5 @@
 const petalContainer = document.getElementById("petals");
 
-// 🌸 sakura spawn system
 function createPetal() {
   const petal = document.createElement("div");
   petal.classList.add("petal");
@@ -17,7 +16,7 @@ function createPetal() {
 
 setInterval(createPetal, 150);
 
-// 💖 small click sparkle effect
+
 document.addEventListener("click", (e) => {
   const spark = document.createElement("div");
   spark.innerText = "✨";
