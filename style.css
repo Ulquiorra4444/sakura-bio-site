@@ -5,7 +5,7 @@ body {
   overflow: hidden;
 }
 
-/* glass card */
+
 .card {
   background: rgba(255,255,255,0.6);
   border-radius: 30px;
@@ -23,14 +23,14 @@ body {
   align-items: center;
 }
 
-/* anime image */
+
 .anime {
   width: 100%;
   border-radius: 25px;
   margin-bottom: 15px;
 }
 
-/* text */
+
 h1 {
   color: #ff4fa3;
 }
@@ -40,7 +40,7 @@ h1 {
   font-size: 14px;
 }
 
-/* credit */
+
 .credit {
   position: fixed;
   bottom: 10px;
@@ -49,7 +49,7 @@ h1 {
   opacity: 0.4;
 }
 
-/* petals */
+
 .petal {
   position: fixed;
   top: -10px;
